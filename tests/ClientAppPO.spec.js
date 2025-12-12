@@ -61,5 +61,3 @@ for(const data of dataset)
 
 
 })
-//test files will trigger parallel
-//individual tests in the file will run in sequence

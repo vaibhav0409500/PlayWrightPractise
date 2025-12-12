@@ -13,10 +13,8 @@ console.log("Hello World")
 
   let required = true
   console.log(typeof(required))
-  //null and undefined
-// let c = a+b ( it did not work //we cannot redeclare variable with let keyword but possible with var)
-   c = a+b // reassigning is allowed with let 
-   //var c=a+b )this is also allowed)
+
+   c = a+b 
   console.log(c)
  
  console.log(!required)
@@ -29,9 +27,3 @@ console.log("Hello World")
 
 
 
-//these are comments
-/*
-dsds
-dss
-dss
-*/

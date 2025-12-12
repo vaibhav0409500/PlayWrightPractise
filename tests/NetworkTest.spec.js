@@ -32,7 +32,7 @@ test('@SP Place the order', async ({ page }) => {
           body, 
 
         });
-      //intercepting response -APi response-> { playwright fakeresponse}->browser->render data on front end
+      
     });
 
   await page.locator("button[routerlink*='myorders']").click();

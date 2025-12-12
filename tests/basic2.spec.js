@@ -43,7 +43,7 @@ console.log(required)
 required= false
 }
 
-// Example Playwright HTTP GET call
+
 const { request } = require('@playwright/test');
 
 (async () => {
